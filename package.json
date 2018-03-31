@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "gen": "nuxt generate",
+    "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "dev": "nuxt"
+    "generate": "nuxt generate"
   },
   "engines": {
     "node": ">=8"
