@@ -1,0 +1,36 @@
+$brand: #00f;
+$altDark: #425b6b;
+// $altDark: #425C6C;
+$altLight: #75eefc;
+$fontFamily: BelfiusAlternative, segoe ui, helvetica neue, sans-serif;
+
+
+/* Fonts */
+
+@font-face {
+  font-family: "BelfiusAlternative";
+  font-weight: 300;
+  src: url("/fonts/belfiusalternative_light.eot?v=16832f1ea");
+  src: url("/fonts/belfiusalternative_light.eot?v=16832f1ea&#iefix") format('eot'), url("/fonts/belfiusalternative_light.woff?v=c740eddb") format('woff'), url("/fonts/belfiusalternative_light.ttf?v=165f6d795") format('truetype')
+}
+
+@font-face {
+  font-family: "BelfiusAlternative";
+  font-weight: 400;
+  src: url("/fonts/belfiusalternative_regular.eot?v=be098a8d");
+  src: url("/fonts/belfiusalternative_regular.eot?v=be098a8d&#iefix") format('eot'), url("/fonts/belfiusalternative_regular.woff?v=112ce19f0") format('woff'), url("/fonts/belfiusalternative_regular.ttf?v=89801b4e") format('truetype')
+}
+
+@font-face {
+  font-family: "BelfiusAlternative";
+  font-weight: 700;
+  src: url("/fonts/belfiusalternative_bold.eot?v=134116b72");
+  src: url("/fonts/belfiusalternative_bold.eot?v=134116b72&#iefix") format('eot'), url("/fonts/belfiusalternative_bold.woff?v=14cf77daf") format('woff'), url("/fonts/belfiusalternative_bold.ttf?v=14631aba2") format('truetype')
+}
+
+@font-face {
+  font-family: "BelfiusAlternative";
+  font-weight: 900;
+  src: url("/fonts/belfiusalternative-black.eot?v=17689100d");
+  src: url("/fonts/belfiusalternative-black.eot?v=17689100d&#iefix") format('eot'), url("/fonts/belfiusalternative-black.woff?v=14404beb6") format('woff'), url("/fonts/belfiusalternative-black.ttf?v=15dddc5e4") format('truetype')
+}
